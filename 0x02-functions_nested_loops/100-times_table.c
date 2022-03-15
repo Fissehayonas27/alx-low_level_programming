@@ -1,4 +1,4 @@
-include "holberton.h"
+#include "holberton.h"
 
 int _putchar(char c);
 
@@ -63,3 +63,4 @@ void print_times_table(int n)
 
 	}
 
+}
